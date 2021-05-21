@@ -1,0 +1,6 @@
+enum RequestError {
+
+  ConnectionError,
+  GeneralError
+
+}
